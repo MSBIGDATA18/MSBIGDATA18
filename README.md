@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @MSBIGDATA18
-- 👀 I’m interested in ML project 
-- 🌱 I’m currently learning Python Django React 
-- 💞️ I’m looking to collaborate on Python 
-- 📫 How to reach me @sharlyslgt@gmail.com
+Hey everyone, 
+As an Epitech software engineering student with a knack for front-end and back-end development, I specialize in ReactJS, NodeJS, and Express, and am currently exploring Three.js and VR. Eager to deepen my Python and Django skills, I'm open to collaborating on Node.js back-end projects. Reach out at @sharlyslgt@gmail.com.
 
 <!---
 MSBIGDATA18/MSBIGDATA18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
