@@ -1,10 +1,17 @@
-# hey everyone, 
+# hey everyone. I'm Mawen. 
 i'm junior Software Developer, from Paris, France. 
+i enjoy working on challenging projects and i'm passionate about Design Engineering Web GL & Crafting Core Blockchain, building scalable application. 
 
-My Tech Stack
-TypeScript, Javascript, Python, 
-React. js, Next.js
-Tailwind, Figma
+AI enthousisast. 
+
+# My Tech Stack
+- Javascript, TypeScript, Python 
+- React. js, Next.js
+- Tailwind, Figma
+- Prisma, MongoDB
+- Github
+
+
 
 
 <!---
