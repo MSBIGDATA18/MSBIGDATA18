@@ -4,7 +4,7 @@ i'm junior Software Developer, from Paris, France.
 i enjoy working on challenging projects and i'm passionate about _Design Engineering Web GL_ & _Crafting Core Blockchain, building scalable application._
 
 **AI enthousisast.**
-
+ML @ Computer Vision 
 
  **My Tech Stack**
 - Javascript, TypeScript, Python 
